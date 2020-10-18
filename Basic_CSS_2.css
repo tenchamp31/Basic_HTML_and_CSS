@@ -3,4 +3,5 @@ p {
 	font-style: italic;
 	text-align: center;
 	font-size: large;
+	text-shadow: red 2px 5px;
 }
